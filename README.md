@@ -210,3 +210,57 @@ OneNote：https://www.onenote.com/
 Google keep：https://keep.google.com/
 
 Simplenote：https://simplenote.com/
+
+## PDF工具
+
+- [PDF Converter](https://www.freepdfconvert.com/zh-hans)
+
+  支持把 PDF 转化成所有格式的文件，也支持把不同文件格式转换成 PDF。
+
+  除了格式转化，它还有很多好用的 PDF 编辑功能，例如，PDF 合并、PDF 页面删除、PDF 压缩、PDF 页面旋转。
+
+  另外，PDF Converter 是一款非常安全的在线工具，通过 256 位 SSL 加密，来保障上传文件的安装。而且，一旦完成并下载你需要的问题，它会自动删除服务器上文件。
+
+- [ExtractPDF](https://www.extractpdf.com/zh.html)
+
+  一款擅长**内容提取**的 PDF 工具，它能够轻松提取 PDF 文件中的文字、字体和图片。
+
+- [pdf2go](https://www.pdf2go.com/zh)
+
+  支持 PDF 与其他文件格式的互相转换，也支持 PDF 合并、删除等操作。
+
+  pdf2go 不仅可以用于本地 PDF 文件，还可以直接把它应用于**在线 PDF**，不需要把 PDF 下载文件，就可以对在线 PDF 文件进行处理和优化。
+
+- [SmallPDF](https://smallpdf.com/cn/pdf-converter)
+
+  **SmallPDF**在核心功能方面与 pdf2go、PDF Converter 大同小异，PDF 转换、编辑等。
+
+  SmallPDF 除了编辑之外，还支持**在线 PDF 阅读器**。此外，SmallPDF 还能够对 PDF 加解密，支持 PDF 电子签名。
+
+- [LightPDF](https://lightpdf.com/)
+
+  最强的 PDF 编辑器，除了前面介绍的功能，LightPDF 还具有特色的**OCR**、**语音转文本**、PDF 批注功能。
+
+  另外，LightPDF 不仅拥有在线版，还支持桌面版、Chrome 插件。
+
+- [PDF24](https://zh.pdf24.org/)
+
+  一款完全免费的在线 PDF 工具，除了 PDF 转换和编辑这些功能之外，它最吸引人的就是**比较 PDF 文件**。
+
+  对于 txt、Word 这些可编辑的文本，很容易进行比较，可以通过 Beyond Compare 或者 VS Code 都可以实现。
+
+- [PDFCandy](https://pdfcandy.com/)
+
+  是一款非常**简洁**在线 PDF 编辑工具，页面简洁，只有唯一个工具页。
+
+  除了常见的文件格式转化，PDFCandy 还支持一些较为少用的文件格式，例如，DjVu、MOBI、FB2、RTF、ODT 等。
+
+  此外，PDFCandy 除了网页版之外还有 Windows 桌面客户端。
+
+- [iLovePDF](https://www.ilovepdf.com/)
+
+  一款较为知名的在线 PDF 工具了，这款工具相对于前面介绍的，算得上**中规中矩**。它拥有的功能，在前面介绍的工具类似。
+
+- [PDF 派](https://www.pdfpai.com/)
+
+  提供 20 个免费的在线 PDF 工具，包括 PDF 转换，PDF 合并拆分，加密解密 PDF，压缩 PDF 等，访问速度快，界面简洁。
