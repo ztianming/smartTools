@@ -264,3 +264,6 @@ Simplenote：https://simplenote.com/
 - [PDF 派](https://www.pdfpai.com/)
 
   提供 20 个免费的在线 PDF 工具，包括 PDF 转换，PDF 合并拆分，加密解密 PDF，压缩 PDF 等，访问速度快，界面简洁。
+- [pdf转换器](http://www.pdfdo.com/pdf-page-cut.aspx)
+
+  格式转换、页面裁剪、编辑等
