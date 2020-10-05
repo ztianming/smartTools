@@ -1,11 +1,28 @@
 # smartTools
+
 ## 提升程序员效率的工具或浏览器插件
 
-Chrome浏览器插件
+## Chrome浏览器插件
+
+### [crx4chrome](https://www.crx4chrome.com/)
+
+免翻墙，直接下载 Chrome 浏览器插件 
+
+[OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=zh-CN) 1.35
+
+节省高达95％的内存，并减轻标签页混乱现象
+
+[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=zh-CN) 7.1.6
+
+冻结暂时用不到的标签页，以便释放系统资源。
+
+[Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=zh-CN) - 免费的广告拦截器 3.9.5
+
+阻止 YouTube™ 广告、弹出窗口并抵御恶意软件！
 
 
 
-搜索类
+## 搜索类
 
 首选 Google
 
@@ -19,79 +36,107 @@ DuckDuckGo：https://duckduckgo.com/
 
 从官网的介绍来看这个搜索引擎不收集用户信息，而且没有推广。
 
-### Stack Overflow
+### [Stack Overflow](https://stackoverflow.com/)
 
-Stack Overflow：https://stackoverflow.com/
+很多技术问题的答案就在这个网站上，直接检索就好了。
 
-我们如果常用 Google，很多技术问题的答案就在这个网站上，如果你无法使用 Google 可以在这个网站上直接检索就好了。
-
-### Gitlogs
-
-Gitlogs：https://www.gitlogs.com/
+### [Gitlogs](https://www.gitlogs.com/)
 
 Gitlogs 是专门针对 GitHub 项目的搜索引擎，我们通过他可以快速找到想要项目。
 
-### jiumo search
-
-文档搜索引擎 jiumo search 鸠摩搜书：https://www.jiumodiary.com/
-
-可以用来找一些技术文档手册，很多在百度网盘里。
-
-### Ebooke
-
-Ebooke：https://ebookee.org/
-
-Ebookee 是一个基于互联网并提供免费电子图书下载的搜索引擎网站。
-
-### Iconfinder
-
-图标搜索：https://www.iconfinder.com/
-
-用来查找 logo 图片。
-
-### TinEye
-
-TinEye：https://www.tineye.com
-
-用图片来检索图片，我们可以上传图片或输入图片的 URL 来检索。
-
-### SemanticScholar
-
-SemanticScholar：https://www.semanticscholar.org/
+### [SemanticScholar](https://www.semanticscholar.org/)
 
 SemanticScholar 是一个免费学术搜索引擎，其检索结果来自于期刊、学术会议资料或者是学术机构的文献。
 
-### LibreStock
 
-LibreStock：https://librestock.com/
+
+### 图片素材
+
+#### [Iconfinder](https://www.iconfinder.com/)
+
+图标搜索：用来查找 logo 图片。
+
+#### [TinEye](https://www.tineye.com)
+
+TinEye：用图片来检索图片，我们可以上传图片或输入图片的 URL 来检索。
+
+#### [LibreStock](https://librestock.com/)
 
 LibreStock 上可以检索一些优质的高清图片。
 
-### CC Search
-
-CC Search：https://ccsearch.creativecommons.org/
+#### [CC Search](https://ccsearch.creativecommons.org/)
 
 CC Search 上搜索到的图片资源都是无版权的，我们可以免费的使用。
 
-### Pexels
-
-Pexels：https://www.pexels.com/
+#### [Pexels](https://www.pexels.com/)
 
 高质量的图片网站，可以免费使用。
 
-### Unsplash
-
-Unsplash：https://unsplash.com/
+#### [Unsplash](https://unsplash.com/)
 
 免费高清素材网站。
 
-### The App Store
 
-The App Store：https://theappstore.org/
+
+### 电子书网站
+
+**1、[谷歌图书搜索](https://books.google.com/)**
+
+搜索全世界最全面的全文图书索引。
+
+**2、[oreilly](https://www.oreilly.com/programming/free/)**
+
+O’Reilly 为软件开发人员带来许多革命性的技术书籍，除了很多付费书籍意外，它也出版了许多免费的技术书籍
+
+**3、[it-ebooks](http://it-ebooks.info/)**
+
+ **4、[jiumo search](https://www.jiumodiary.com/)**
+
+文档搜索引擎 jiumo search 鸠摩搜书：
+
+可以用来找一些技术文档手册，很多在百度网盘里。
+
+**5、[freetechbooks](http://www.freetechbooks.com/)**
+
+这个网站收集了很多免费的在线电子书，涵盖计算机科学、编程、工程相关的书籍和讲义等文档类资源。
+
+[《1211本书通通免费！这是个专为程序员准备的网站》](http://mp.weixin.qq.com/s?__biz=MzA5NDMzOTExMw==&mid=2455348797&idx=1&sn=25e519ccfbf327612e7e66af1be1d5dd&chksm=87fd2f7bb08aa66de8fcdbbba4fb76ee04ed06f0a1d5e7d5238e282eecb9f50b2c38c7221fd1&scene=21#wechat_redirect)
+
+**6、[Get Free Ebooks](http://www.getfreeebooks.com/)**
+
+计算机类书籍、电子杂志、博客、小说新闻等的免费资源
+
+**7、[free-ebooks](http://www.free-ebooks.net/)**
+
+综合性较强的书籍网站
+
+**8、[PDFreeBooks](http://pdfreebooks.org/)**
+
+以儿童插画、小说类书籍为主，技术书籍较少。
+
+**9、[freeebooknetwork](http://www.freeebooknetwork.com/)**
+
+对书籍进行细致的分类，共分为教育、小说、金融、育儿、互联网、技术、自我提升等20几个大类
+
+**10、[Library Genesis](http://gen.lib.rus.ec/)**
+
+拥有100多万本图书让你随意下载
+
+**11、[gutenberg](http://www.gutenberg.org/)**
+
+提供了58000多本免费电子书，你可以在这里找到世界上最伟大的文学作品，许多都是美国版权已经过期的旧作品。
+
+**12、[Ebookee](https://ebookee.org/)**
+
+Ebookee 是一个基于互联网并提供免费电子图书下载的搜索引擎网站。
+
+
+
+### **[The App Store](https://theappstore.org/)**
 
 The App Store 是一个针对苹果手机、iPad、Mac 设备的应用搜索工具。
 
-# 图片处理
+## 图片处理
 
 TinyPNG：https://tinypng.com/
 
@@ -106,6 +151,10 @@ SmartResize：
 https://www.smartresize.com/zh-cn
 
 这个工具基于 javascript+HTML5 编写而成的，是一个批量裁剪缩放图片的神器！
+
+### [removebg](https://www.remove.bg/zh): 抠图神器
+
+
 
 ### 正则表达式相关工具
 
@@ -125,7 +174,7 @@ https://convertio.co/zh/
 
 https://www.online-convert.com/
 
-https://www.pdftoword.com/
+[PDF to Word Converter](https://www.pdftoword.com/)
 
 https://tools.pdf24.org/zh/
 
@@ -165,29 +214,33 @@ DesignCap: https://www.designcap.com/
 
 推荐几款绘图工具：
 
-Xmind：https://www.xmind.cn/
+[Xmind](https://www.xmind.cn/)
 
 跨平台、跨终端，拥有全功能的思维导图软件。
 
-ProcessOn：https://www.processon.com/
+[ProcessOn](https://www.processon.com/)
 
 免费在线作图，实时协作，支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等。
 
-MindMaster：https://www.edrawsoft.cn/mindmaster/
+[MindMaster](https://www.edrawsoft.cn/mindmaster/)
 
 多平台思维导图软件，可用于Windows，Mac和Linux等桌面环境，也可以在线使用或在苹果，安卓等移动端上使用。
 
-MindMeister：https://www.mindmeister.com/zh
+[MindMeister](https://www.mindmeister.com/zh)
 
 在线思维导图工具，已有超过1000万个用户。
 
-百度脑图：http://naotu.baidu.com/ 简洁的在线思维导图工具
+[百度脑图](http://naotu.baidu.com/ ) 简洁的在线思维导图工具
 
-Gliffy：https://www.gliffy.com/
+[Gliffy](https://www.gliffy.com/)
 
 我们可以在 Chrome 浏览器上安装 gliffy 插件。
 
 可以在线创建流程图、UML图、线框图、BPNM、组织架构图等。
+
+### [draw.io](https://www.draw.io/): 画图工具
+
+
 
 ## 文档笔记平台
 
@@ -210,6 +263,10 @@ OneNote：https://www.onenote.com/
 Google keep：https://keep.google.com/
 
 Simplenote：https://simplenote.com/
+
+
+
+
 
 ## PDF工具
 
@@ -263,7 +320,27 @@ Simplenote：https://simplenote.com/
 
 - [PDF 派](https://www.pdfpai.com/)
 
-  提供 20 个免费的在线 PDF 工具，包括 PDF 转换，PDF 合并拆分，加密解密 PDF，压缩 PDF 等，访问速度快，界面简洁。
+  提供 20 个免费的在线 PDF 工具，包括 PDF 转换，PDF 合并拆分，加密解密 PDF，压缩 PDF 等，访问速度快，界面简洁
+
 - [pdf转换器](http://www.pdfdo.com/pdf-page-cut.aspx)
 
   格式转换、页面裁剪、编辑等
+
+  
+
+
+
+## 系统工具类
+
+### [傲梅分区助手](https://www.disktool.cn/) 
+
+支持快速分区，迁移系统到固态磁盘，系统扩容，硬盘克隆，无损合并与拆分分区等很多实用的磁盘与分区管理操作，以求最大限度地为您解决问题。
+
+### [Everything](https://www.voidtools.com/zh-cn/)
+
+基于名称快速定位文件和文件夹。
+
+### [uTools](https://u.tools/)
+
+你的生产力工具集，自由集成丰富插件，快速匹配「场景功能」，用完即走
+
