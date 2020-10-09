@@ -80,53 +80,55 @@ CC Search 上搜索到的图片资源都是无版权的，我们可以免费的�
 
 ### 电子书网站
 
-**1、[谷歌图书搜索](https://books.google.com/)**
+**[谷歌图书搜索](https://books.google.com/)**
 
 搜索全世界最全面的全文图书索引。
 
-**2、[oreilly](https://www.oreilly.com/programming/free/)**
+**[oreilly](https://www.oreilly.com/programming/free/)**
 
 O’Reilly 为软件开发人员带来许多革命性的技术书籍，除了很多付费书籍意外，它也出版了许多免费的技术书籍
 
-**3、[it-ebooks](http://it-ebooks.info/)**
+**[it-ebooks](http://it-ebooks.info/)**
 
- **4、[jiumo search](https://www.jiumodiary.com/)**
+**[jiumo search](https://www.jiumodiary.com/)**
 
 文档搜索引擎 jiumo search 鸠摩搜书：
 
 可以用来找一些技术文档手册，很多在百度网盘里。
 
-**5、[freetechbooks](http://www.freetechbooks.com/)**
+[PDFDrive](https://www.pdfdrive.com/)
+
+**[freetechbooks](http://www.freetechbooks.com/)**
 
 这个网站收集了很多免费的在线电子书，涵盖计算机科学、编程、工程相关的书籍和讲义等文档类资源。
 
 [《1211本书通通免费！这是个专为程序员准备的网站》](http://mp.weixin.qq.com/s?__biz=MzA5NDMzOTExMw==&mid=2455348797&idx=1&sn=25e519ccfbf327612e7e66af1be1d5dd&chksm=87fd2f7bb08aa66de8fcdbbba4fb76ee04ed06f0a1d5e7d5238e282eecb9f50b2c38c7221fd1&scene=21#wechat_redirect)
 
-**6、[Get Free Ebooks](http://www.getfreeebooks.com/)**
+**[Get Free Ebooks](http://www.getfreeebooks.com/)**
 
 计算机类书籍、电子杂志、博客、小说新闻等的免费资源
 
-**7、[free-ebooks](http://www.free-ebooks.net/)**
+**[free-ebooks](http://www.free-ebooks.net/)**
 
 综合性较强的书籍网站
 
-**8、[PDFreeBooks](http://pdfreebooks.org/)**
+**[PDFreeBooks](http://pdfreebooks.org/)**
 
 以儿童插画、小说类书籍为主，技术书籍较少。
 
-**9、[freeebooknetwork](http://www.freeebooknetwork.com/)**
+**[freeebooknetwork](http://www.freeebooknetwork.com/)**
 
 对书籍进行细致的分类，共分为教育、小说、金融、育儿、互联网、技术、自我提升等20几个大类
 
-**10、[Library Genesis](http://gen.lib.rus.ec/)**
+**[Library Genesis](http://gen.lib.rus.ec/)**
 
 拥有100多万本图书让你随意下载
 
-**11、[gutenberg](http://www.gutenberg.org/)**
+**[gutenberg](http://www.gutenberg.org/)**
 
 提供了58000多本免费电子书，你可以在这里找到世界上最伟大的文学作品，许多都是美国版权已经过期的旧作品。
 
-**12、[Ebookee](https://ebookee.org/)**
+**[Ebookee](https://ebookee.org/)**
 
 Ebookee 是一个基于互联网并提供免费电子图书下载的搜索引擎网站。
 
@@ -326,7 +328,25 @@ Simplenote：https://simplenote.com/
 
   格式转换、页面裁剪、编辑等
 
-  
+## 打字练习
+
+[SpeedCoder](http://www.speedcoder.net/) Online Typing Practice for Programmers
+
+这个是专门针对于程序员的打字练习网站，支持各种编程语言的练习，包括C/C++/C#/Html/Ruby/CSS/Python/Perl/JavaScript/Java/PHP。会给出一段代码释放，并且显示打哪个字母需要使用哪一个手指，而且还支持上传本地代码进行练习。
+
+[Ratatype](https://www.ratatype.com/)
+
+这是一个在线的打字教程网站，能够帮助你提高键盘输入速度。在TYPING TUTOR版块中逐步练习你的指法。每天练习几节内容。学习完TYPING TUTOR内容相信你的盲打速度绝对会上升一个层次。在TYPING TEST板块中可以测试你的打字速度，不仅如此，你还能获得一张精美的证书。
+
+[Typing Practice](https://www.keybr.com/)
+
+是一个专属的打字练习网站。与普通的打字练习工具不同的是，Typing Practice上的练习内容都是一些代码是一个针对程序员开发的练习打字工具。通过让用户模拟程序员敲代码的过程来练习打字。该网站有多种丰富的编程语言内容供用户练习，每种都有10-20个关卡，每关结束后还会有专业的评测报告。程序员们都乐此不疲的用它来PK谁敲代码更快。当然，不是程序员的你也一样可以练习。对普通用户而言练习打字（敲代码）更像是玩游戏，本关没有通过就无法进入下一关。
+
+[TypingClub](https://www.typingclub.com/)
+
+详细指法教程，闯关模式
+
+[typing.io ](https://typing.io/) Typing Practice for Programmers
 
 
 
