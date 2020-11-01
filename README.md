@@ -349,6 +349,22 @@ Simplenote：https://simplenote.com/
 [typing.io ](https://typing.io/) Typing Practice for Programmers
 
 
+## 放松充电类
+
+在线音乐
+
+[MP3PAW](https://mp3paw.cool/) 在线播放及下载
+
+
+
+在线视频
+
+[No视频](https://www.novipnoad.com/) 无广告，大部分影片都具备1080P蓝光画质
+
+[完美看看](https://www.wanmeikk.me/) 所有视频一律蓝光画质
+
+[嘀哩哩Dilili](https://www.dililitv.com/) 
+
 
 ## 系统工具类
 
