@@ -23,6 +23,16 @@
 
 阻止 YouTube™ 广告、弹出窗口并抵御恶意软件！
 
+[Octotree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc?hl=zh-CN)
+
+GitHub代码结构树，方便项目的查看
+
+
+
+## [**Codelf**](https://unbug.github.io/codelf/) 
+
+帮开发者命名变量的开源搜索服务
+
 
 
 ## 搜索类
@@ -45,11 +55,65 @@ DuckDuckGo：https://duckduckgo.com/
 
 ### [Gitlogs](https://www.gitlogs.com/)
 
-Gitlogs 是专门针对 GitHub 项目的搜索引擎，我们通过他可以快速找到想要项目。
+Gitlogs 是专门针对 GitHub 项目的搜索引擎，我们可以快速找到想要项目。
+
+
+
+## 学术类
 
 ### [SemanticScholar](https://www.semanticscholar.org/)
 
 SemanticScholar 是一个免费学术搜索引擎，其检索结果来自于期刊、学术会议资料或者是学术机构的文献。
+
+### [会伴](https://www.myhuiban.com/) 
+
+会议助手：可以查看国际会议和期刊列表
+
+### [中国计算机学会推荐期刊会议目录](https://www.ccf.org.cn/Academic_Evaluation/CN/)
+
+### [Guide2Research](http://www.guide2research.com/)
+
+### [IEEE会议查询](https://www.ieee.org/conferences/index.html)
+
+[WikiCFP](http://www.wikicfp.com/cfp/)
+
+### [LaTeX公式编辑器](https://www.latexlive.com/) 
+
+可以通过在线编辑、上传截图等方式 生成latex公式代码
+
+
+
+## 编程类
+
+### [checkio](https://py.checkio.org/)
+
+### [**Codecombat**](https://codecombat.com/)
+
+Code Combat是一款学习编程的角色扮演游戏。每一关都用任务的形式设立目标，用实时的反馈及时纠正代码的错误，用游戏的语言来呈现编程的用处。
+
+### [**Codingame**](https://www.codingame.com/)
+
+以玩游戏的方式通过在线编程完成相应挑战
+
+### **Codehunt**
+
+### [**Codewars**](https://www.codewars.com/)
+
+Codewars让你在在战斗中进行学习，支持JavaScript、Python、C#、Java、Python等语言。用游戏化的方法来联系编码和解决算法挑战。
+
+### [hackerRank](https://www.hackerrank.com/)
+
+### [**Learn Git Branching**](https://learngitbranching.js.org/?locale=zh_CN)
+
+通过可视化和闯关的方式满足了各个阶段玩家的学习需求。
+
+### [LintCode](https://www.lintcode.com/)
+
+LintCode 是面向**求职**的编程刷题网站，收集了最常见、最高频的编程题目，还**提供Google、蚂蚁金服的内推资格**
+
+### [Vim Adventures](https://vim-adventures.com/)
+
+Vim Adventures是一个游戏式教程，用于学习如何使用Vim
 
 
 
@@ -169,6 +233,8 @@ https://regexr.com/
 
 https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24
 
+
+
 ### 文件转换转换工具
 
 以下资源支持各种格式（PDF、图片、Word）相互转换。
@@ -184,6 +250,8 @@ https://www.online-convert.com/
 https://tools.pdf24.org/zh/
 
 https://cn.office-converter.com/
+
+
 
 ### 在线编译器
 
@@ -214,6 +282,8 @@ JSON 解析器: https://c.runoob.com/front-end/53
 DesignCap: https://www.designcap.com/
 
 在线设计海报，内置众多模板及素材。
+
+
 
 ## 思维导图工具
 
@@ -329,7 +399,9 @@ Simplenote：https://simplenote.com/
 
 - [pdf转换器](http://www.pdfdo.com/pdf-page-cut.aspx)
 
-  格式转换、页面裁剪、编辑等
+  格式转换、页面裁剪、编辑、解密等
+
+
 
 ## 打字练习
 
@@ -352,6 +424,7 @@ Simplenote：https://simplenote.com/
 [typing.io ](https://typing.io/) Typing Practice for Programmers
 
 
+
 ## 放松充电类
 
 在线音乐
@@ -369,7 +442,16 @@ Simplenote：https://simplenote.com/
 [嘀哩哩Dilili](https://www.dililitv.com/) 
 
 
+
 ## 系统工具类
+
+[微PE工具箱](http://www.wepe.com.cn/) 
+
+跨时代的*PE*工具箱,装机维护最得力的助手,最后的救命稻草。化繁为简,小材大用,一键安装,极速启动。
+
+
+
+
 
 ### [傲梅分区助手](https://www.disktool.cn/) 
 
