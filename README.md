@@ -39,13 +39,11 @@ GitHub代码结构树，方便项目的查看
 
 首选 Google
 
-### Bing
+### [Bing](https://cn.bing.com/ )
 
-Bing 国际版：https://cn.bing.com/ 比某度好用
+Bing 国际版：比某度好用
 
-### DuckDuckGo
-
-DuckDuckGo：https://duckduckgo.com/
+### [DuckDuckGo](https://duckduckgo.com/)
 
 从官网的介绍来看这个搜索引擎不收集用户信息，而且没有推广。
 
@@ -465,6 +463,6 @@ Simplenote：https://simplenote.com/
 
 你的生产力工具集，自由集成丰富插件，快速匹配「场景功能」，用完即走
 
-[ToDesk](https://www.todesk.com/) 
+### [ToDesk](https://www.todesk.com/) 
 
 个人免费 安全流畅的远程控制软件
