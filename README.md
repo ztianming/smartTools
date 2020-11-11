@@ -115,6 +115,14 @@ Vim Adventures是一个游戏式教程，用于学习如何使用Vim
 
 
 
+脑力训练
+
+[Lumosity](https://www.lumosity.com/app/v4/dashboard)
+
+通过游戏的方式训练反应速度、记忆力、注意力、问题解决、数学等能力
+
+
+
 ### 图片素材
 
 #### [Iconfinder](https://www.iconfinder.com/)
@@ -205,21 +213,27 @@ The App Store 是一个针对苹果手机、iPad、Mac 设备的应用搜索工�
 
 ## 图片处理
 
-TinyPNG：https://tinypng.com/
+[TinyPNG](https://tinypng.com/)
 
 免费的在线图片压缩工具，压缩率高，无损画质，直接拖拽使用，很方便。
 
-picdiet：https://www.picdiet.com/zh-cn
+
+
+[picdiet](https://www.picdiet.com/zh-cn)
 
 独特且强悍的JavaScript 算法，能极速压缩 80% 的图片大小，而不损害其质量。
 
-SmartResize：
 
-https://www.smartresize.com/zh-cn
+
+[SmartResize](https://www.smartresize.com/zh-cn)
 
 这个工具基于 javascript+HTML5 编写而成的，是一个批量裁剪缩放图片的神器！
 
 ### [removebg](https://www.remove.bg/zh): 抠图神器
+
+**[Image Cyborg](https://imagecyborg.com/)**
+
+抓取并下载网页中的所有图像。除此之外它还有图片处理、PDF处理、网页转为PDF、网页视频转为MP3 等多达33个在线工具，
 
 
 
@@ -336,6 +350,16 @@ OneNote：https://www.onenote.com/
 Google keep：https://keep.google.com/
 
 Simplenote：https://simplenote.com/
+
+
+
+## 配音工具
+
+[讯飞快读](https://www.ffkuaidu.com/)
+
+媲美真人效果的长篇文字朗读工具，需要微信登录，免费用户每天可以使用20次
+
+
 
 
 
