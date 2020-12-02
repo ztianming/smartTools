@@ -55,6 +55,10 @@ Bing 国际版：比某度好用
 
 Gitlogs 是专门针对 GitHub 项目的搜索引擎，我们可以快速找到想要项目。
 
+[书签地球](https://www.bookmarkearth.com/)
+
+浏览器书签共享
+
 
 
 ## 学术类
@@ -79,7 +83,13 @@ SemanticScholar 是一个免费学术搜索引擎，其检索结果来自于期�
 
 可以通过在线编辑、上传截图等方式 生成latex公式代码
 
+学习类
 
+[默默背单词](https://www.maimemo.com/)
+
+[在线学习语言](http://www.duolingo.cn/learn)
+
+支持英语、日语、韩语、法语、西班牙语、意大利语等
 
 ## 编程类
 
@@ -337,7 +347,7 @@ DesignCap: https://www.designcap.com/
 
 印象笔记：https://www.yinxiang.com/
 
-有道笔记：https://note.youdao.com/
+[有道笔记](https://note.youdao.com/)
 
 OneNote：https://www.onenote.com/
 
@@ -345,11 +355,15 @@ OneNote：https://www.onenote.com/
 
 为知笔记：https://www.wiz.cn/
 
-石墨文档：https://shimo.im/
+[石墨文档](https://shimo.im/)
 
 Google keep：https://keep.google.com/
 
 Simplenote：https://simplenote.com/
+
+[Markdown Nice](https://www.mdnice.com/)
+
+支持自定义样式的在线Markdown编辑器
 
 
 
@@ -357,13 +371,15 @@ Simplenote：https://simplenote.com/
 
 [讯飞快读](https://www.ffkuaidu.com/)
 
-媲美真人效果的长篇文字朗读工具，需要微信登录，免费用户每天可以使用20次
+网页版媲美真人效果的长篇文字朗读工具，需要微信登录，免费用户每天可以使用20次
 
+[文字转语音app](https://feixue.lanzoui.com/i2SKAime9yh)
 
+[**VocalRemover**](https://vocalremover.org/ch/)
 
+一个完全免费的在线音频编辑工具，
 
-
-
+支持的功能有：人声消除和隔离、改变音调、连接歌曲、录音机、音频转换器、确定歌曲节奏等
 
 ## PDF工具
 
@@ -441,7 +457,7 @@ Simplenote：https://simplenote.com/
 
 [TypingClub](https://www.typingclub.com/)
 
-详细指法教程，闯关模式
+详细指法教程，闯关模式，拥有虚拟键盘，可以学习指法
 
 [typing.io ](https://typing.io/) Typing Practice for Programmers
 
@@ -463,9 +479,15 @@ Simplenote：https://simplenote.com/
 
 [嘀哩哩Dilili](https://www.dililitv.com/) 
 
+[片库](https://www.pianku.me/) 磁力链接
+
 
 
 ## 系统工具类
+
+
+
+
 
 [微PE工具箱](http://www.wepe.com.cn/) 
 
@@ -490,3 +512,24 @@ Simplenote：https://simplenote.com/
 ### [ToDesk](https://www.todesk.com/) 
 
 个人免费 安全流畅的远程控制软件
+
+[Coodesker](https://www.coodesker.com/)
+
+**开源免费**、小巧便捷的桌面整理工具。
+
+[OBS](https://obsproject.com/zh-cn)
+
+免费且开源的用于视频录制以及直播串流的软件。
+
+
+
+便签 Sticky notes
+
+win10 自带
+
+
+
+[**Motrix**](https://motrix.app/zh-CN/zh-CN
+)
+
+一个全能型下载软件，它跨平台支持 Windows、Mac、Linux 三大系统，可以支持下载 HTTP、FTP、BT、磁力链接以及下载百度网盘等资源。
