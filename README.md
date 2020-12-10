@@ -59,7 +59,7 @@ Gitlogs 是专门针对 GitHub 项目的搜索引擎，我们可以快速找到�
 
 浏览器书签共享
 
-
+[媒帮派导航](http://123.meibp.com/tupianziyuan)
 
 ## 学术类
 
@@ -82,6 +82,14 @@ SemanticScholar 是一个免费学术搜索引擎，其检索结果来自于期�
 ### [LaTeX公式编辑器](https://www.latexlive.com/) 
 
 可以通过在线编辑、上传截图等方式 生成latex公式代码
+
+
+
+[Paperpass论文查重助手](http://cc.iptcheck.com.cn/) PC版
+
+免费、不限次数；单文件版，下载好后无需安装，打开即可使用。
+
+
 
 学习类
 
@@ -125,11 +133,31 @@ Vim Adventures是一个游戏式教程，用于学习如何使用Vim
 
 
 
+[Carbon](https://carbon.now.sh/)
+
+Create and share beautiful images of your source code. 代码转图片
+
+
+
 脑力训练
 
 [Lumosity](https://www.lumosity.com/app/v4/dashboard)
 
 通过游戏的方式训练反应速度、记忆力、注意力、问题解决、数学等能力
+
+
+
+科学上网
+
+[汇总](https://github.com/Helpsoftware/fanqiang)
+
+[GSou](https://gsou.link/user##)
+
+注册免费 体验会员 30G流量可以使用三天，
+
+无邮箱验证，可以多次注册
+
+
 
 
 
@@ -158,6 +186,8 @@ CC Search 上搜索到的图片资源都是无版权的，我们可以免费的�
 #### [Unsplash](https://unsplash.com/)
 
 免费高清素材网站。
+
+
 
 
 
@@ -485,17 +515,9 @@ Simplenote：https://simplenote.com/
 
 ## 系统工具类
 
-
-
-
-
-[微PE工具箱](http://www.wepe.com.cn/) 
+### [微PE工具箱](http://www.wepe.com.cn/) 
 
 跨时代的*PE*工具箱,装机维护最得力的助手,最后的救命稻草。化繁为简,小材大用,一键安装,极速启动。
-
-
-
-
 
 ### [傲梅分区助手](https://www.disktool.cn/) 
 
@@ -505,6 +527,10 @@ Simplenote：https://simplenote.com/
 
 基于名称快速定位文件和文件夹。
 
+### [PowerToys](https://github.com/microsoft/PowerToys/releases)
+
+屏幕取色器、桌面窗口布局管理、快速预览、批量文件重命名、图片大小修改、键盘映射管理、Win10快捷键指南
+
 ### [uTools](https://u.tools/)
 
 你的生产力工具集，自由集成丰富插件，快速匹配「场景功能」，用完即走
@@ -513,11 +539,11 @@ Simplenote：https://simplenote.com/
 
 个人免费 安全流畅的远程控制软件
 
-[Coodesker](https://www.coodesker.com/)
+### [Coodesker](https://www.coodesker.com/)
 
 **开源免费**、小巧便捷的桌面整理工具。
 
-[OBS](https://obsproject.com/zh-cn)
+### [OBS](https://obsproject.com/zh-cn)
 
 免费且开源的用于视频录制以及直播串流的软件。
 
@@ -529,7 +555,27 @@ win10 自带
 
 
 
-[**Motrix**](https://motrix.app/zh-CN/zh-CN
-)
+### [Motrix](https://motrix.app/zh-CN/zh-CN)
 
 一个全能型下载软件，它跨平台支持 Windows、Mac、Linux 三大系统，可以支持下载 HTTP、FTP、BT、磁力链接以及下载百度网盘等资源。
+
+### [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+
+进程检测工具
+
+[备用地址](https://feixue.lanzoui.com/ii5NXj0fx0h)
+
+### [HiBit Uninstaller](http://www.hibitsoft.ir/)
+
+卸载工具
+
+[备用地址](https://feixue.lanzoui.com/iamVpgemrqf)
+
+看图王
+
+[备用地址](https://mengqushaonv.lanzoui.com/il6Kqj6x3ij)
+
+
+
+
+
