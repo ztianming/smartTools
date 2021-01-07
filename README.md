@@ -511,9 +511,11 @@ Simplenote：https://simplenote.com/
 
 [片库](https://www.pianku.me/) 磁力链接
 
+[欧乐影院](https://www.olevod.com/)
 
 
-## 系统工具类
+
+## Windows系统工具类
 
 ### [微PE工具箱](http://www.wepe.com.cn/) 
 
@@ -537,7 +539,7 @@ Simplenote：https://simplenote.com/
 
 ### [ToDesk](https://www.todesk.com/) 
 
-个人免费 安全流畅的远程控制软件
+个人免费 安全流畅的远程桌面控制软件
 
 ### [Coodesker](https://www.coodesker.com/)
 
@@ -546,6 +548,10 @@ Simplenote：https://simplenote.com/
 ### [OBS](https://obsproject.com/zh-cn)
 
 免费且开源的用于视频录制以及直播串流的软件。
+
+### [ProjecEye](https://github.com/Planshit/ProjectEye)
+
+保护眼睛
 
 
 
@@ -575,7 +581,19 @@ win10 自带
 
 [备用地址](https://mengqushaonv.lanzoui.com/il6Kqj6x3ij)
 
+### [Snipaste](https://www.snipaste.com/)
+
+截图+ 贴图,提高您的工作效率
 
 
 
+视频播放器
+
+### [Potplayer](https://daumpotplayer.com/download/)播放器
+
+强大的内置硬件加速解码器,高清多媒体影音播放器,全面支持32位和64位系统。
+
+### [FormatFactory](http://www.pcgeshi.com/)
+
+免费多媒体转换工具
 
