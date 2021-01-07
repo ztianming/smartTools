@@ -509,9 +509,15 @@ Simplenote：https://simplenote.com/
 
 [嘀哩哩Dilili](https://www.dililitv.com/) 
 
-[片库](https://www.pianku.me/) 磁力链接
+[达达兔](https://www.dadatuw.com/)
+
+[星空影院](http://www.yzerc.org/)
 
 [欧乐影院](https://www.olevod.com/)
+
+[片库](https://www.pianku.me/) 磁力链接
+
+[电影天堂](https://www.dy2018.com/index.html)
 
 
 
