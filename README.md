@@ -501,7 +501,7 @@ Simplenote：https://simplenote.com/
 
 
 
-在线视频
+### 在线视频
 
 [No视频](https://www.novipnoad.com/) 无广告，大部分影片都具备1080P蓝光画质
 
@@ -515,9 +515,50 @@ Simplenote：https://simplenote.com/
 
 [欧乐影院](https://www.olevod.com/)
 
+[人人影视](http://www.yyetss.com/)
+
+[BD影视](https://www.bd2020.com/)
+
+[天天影视](https://www.jddm.org/)
+
+[多瑙绿影院](https://duonaolive.com/)
+
+[策驰影院](https://80kk.cc/)
+
+[天狼影视](https://www.tlyy.cc/)
+
+[唐人街](https://www.tangrenjie.tv/)
+
+
+
+电影下载
+
 [片库](https://www.pianku.me/) 磁力链接
 
 [电影天堂](https://www.dy2018.com/index.html)
+
+
+
+漫画
+
+[塔多漫画](http://m.taduo.net/)
+
+[国风漫画](https://www.gufengmh8.com/)
+
+[国漫吧](http://www.guoman8.cc/)
+
+[漫画160](https://www.mh160.xy)
+
+[奇漫屋](http://www.qiman6.com/)
+
+
+
+动漫
+
+[樱花动漫](http://www.imomoe.ai/)
+
+[樱花动漫](http://www.yhdm.io/)
+
 
 
 
