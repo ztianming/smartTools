@@ -164,7 +164,7 @@ Create and share beautiful images of your source code. 代码转图片
 
 
 
-### 图片素材
+## 图片素材
 
 #### [Iconfinder](https://www.iconfinder.com/)
 
@@ -194,7 +194,7 @@ CC Search 上搜索到的图片资源都是无版权的，我们可以免费的�
 
 
 
-### 电子书网站
+## 电子书网站
 
 **[谷歌图书搜索](https://books.google.com/)**
 
@@ -277,6 +277,18 @@ The App Store 是一个针对苹果手机、iPad、Mac 设备的应用搜索工�
 **[Image Cyborg](https://imagecyborg.com/)**
 
 抓取并下载网页中的所有图像。除此之外它还有图片处理、PDF处理、网页转为PDF、网页视频转为MP3 等多达33个在线工具，
+
+
+
+[PhotoKit](https://photokit.com/editor/?lang=zh)
+
+支持一键抠图、智能笔刷、画质增强、曝光修复、磨皮滤镜以及图片特效、风格迁移、拼贴、融合、拼接、裁剪、变换、绘画、调整大小等等
+
+自动抠图，速度快，效果非常出色。它除了抠图功能外，还支持删除不需要的图像、改善图片质量、去除水印、增加曝光等等。
+
+[BigJpg](https://bigjpg.com/)
+
+AI图片放大
 
 
 
@@ -400,6 +412,20 @@ Google [keep](https://keep.google.com/)
 
 
 
+## 下载工具
+
+[YT1S](https://yt1s.com/) 下载YouTube视频
+
+[Y2Mate](https://y2mate.is/en6/) YouTube视频下载器
+
+[ClipConverter](https://www.clipconverter.cc/2/) YouTube转视频、音频
+
+[Converto](https://www.converto.io/en17//?) YouTube转视频、音频
+
+
+
+[Downsub](https://downsub.com/) 下载字幕
+
 
 
 ## 配音工具
@@ -417,6 +443,8 @@ Google [keep](https://keep.google.com/)
 一个完全免费的在线音频编辑工具，
 
 支持的功能有：人声消除和隔离、改变音调、连接歌曲、录音机、音频转换器、确定歌曲节奏等
+
+
 
 ## PDF工具
 
@@ -478,6 +506,22 @@ Google [keep](https://keep.google.com/)
 
 
 
+## 其他
+
+[**Screenity**](https://github.com/alyssaxuu/screenity)
+
+[小人生成器](https://small-upup.upuptoyou.com/)
+
+
+
+
+
+## 工具合集
+
+[UU在线工具](https://uutool.cn/)
+
+
+
 ## 打字练习
 
 [SpeedCoder](http://www.speedcoder.net/) Online Typing Practice for Programmers
@@ -508,6 +552,34 @@ Google [keep](https://keep.google.com/)
 
 
 
+[Wormhole](https://wormhole.app/) 简单、私密的文件分享
+
+
+
+[YT1s](https://yt1s.com/en14) Youtube Downloader
+
+
+
+```
+
+```
+
+[SaveSubs](https://savesubs.com/zh) 在线字幕保存
+
+
+
+
+
+[HappyScribe](https://www.happyscribe.com/subtitle-tools/add-srt-to-video) Add SRT to Video
+
+
+
+
+
+
+
+
+
 ### 在线视频
 
 [No视频](https://www.novipnoad.com/) 无广告，大部分影片都具备1080P蓝光画质
@@ -535,6 +607,14 @@ Google [keep](https://keep.google.com/)
 [天狼影视](https://www.tlyy.cc/)
 
 [唐人街](https://www.tangrenjie.tv/)
+
+[寻剧吧](http://yxdmtv.com/)
+
+[去看TV](https://www.iqukantv.net/)
+
+[高分影院](https://www.gaofen1.com/)
+
+[蛋蛋赞影院](https://www.dandanzan.cc/)
 
 
 
@@ -570,6 +650,8 @@ Google [keep](https://keep.google.com/)
 
 
 
+
+
 ## Windows系统工具类
 
 ### [微PE工具箱](http://www.wepe.com.cn/) 
@@ -595,6 +677,16 @@ Google [keep](https://keep.google.com/)
 ### [ToDesk](https://www.todesk.com/) 
 
 个人免费 安全流畅的远程桌面控制软件
+
+[RustDesk](https://rustdesk.com/)
+
+远程桌面，开箱即用，无需任何配置，完美代替TeamViewer和AnyDesk。
+
+
+
+[万彩办公大师](http://www.wofficebox.com/)
+
+办公必备小工具百宝箱
 
 ### [Coodesker](https://www.coodesker.com/)
 
