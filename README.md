@@ -744,3 +744,16 @@ win10 自带
 
 免费多媒体转换工具
 
+截屏工具  
+Captura
+
+远程桌面  
+Window自带  
+ToDesk  
+向日葵  
+
+科学上网  
+clash for window
+
+鼠标手势  
+WGestures 1.8.5
